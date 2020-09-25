@@ -1,0 +1,10 @@
+Name,SMILES,DDG,dDDG
+BENZO_26_1,c1ccc2c(c1)nnn2NC(=O)N(Cc3cccc(c3)Cl)c4ccc(cc4)N5CCOCC5,-2.38,0.14
+BENZO_350_1,Cc1ccc(cc1)N(Cc2cccc(c2)Cl)C(=O)Cn3c4ccccc4nn3,-2.34,0.14
+BENZO_354_1,COc1ccc(cc1)N(Cc2cccc(c2)Cl)C(=O)Cn3c4ccccc4nn3,-1.91,0.14
+BENZO_338_1,CN(C)c1ccc(cc1)N(Cc2cccc(c2)Cl)C(=O)Cn3c4ccccc4nn3,-1.65,0.14
+BENZO_362_1,c1ccc2c(c1)nnn2CC(=O)N(Cc3cccc(c3)Cl)c4ccc(cc4)N5CCOCC5,-1.59,0.16
+BENZO_24_1,c1ccc2c(c1)nnn2NC(=O)N(Cc3ccsc3)c4ccc(cc4)N5CCOCC5,-1.51,0.12
+BENZO_360_1,c1ccc2c(c1)nnn2CC(=O)N(Cc3ccsc3)c4ccc(cc4)N5CCOCC5,-1.49,0.12
+BENZO_344_1,c1ccc2c(c1)nnn2CC(=O)N(Cc3ccsc3)c4ccc(cc4)N5CCCCC5,-1.27,0.12
+BENZO_336_1,CN(C)c1ccc(cc1)N(Cc2ccsc2)C(=O)Cn3c4ccccc4nn3,-1.11,0.12
