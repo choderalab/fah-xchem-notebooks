@@ -1,0 +1,10 @@
+	SMILES	ID	Name	DDG (kcal / mol)	dDDG (kcal / mol)	Notes
+0	c1ccc2c(c1)nnn2NC(=O)N(Cc3cccc(c3)Cl)c4ccc(cc4)N5CCOCC5	CHO-MSK-00c5269a-4 *	BENZO_26_1	-2.38	0.14	benzotriazole should be bound to -NH-
+1	Cc1ccc(cc1)N(Cc2cccc(c2)Cl)C(=O)Cn3c4ccccc4nn3	CHO-MSK-00c5269a-1	BENZO_350_1	-2.34	0.14	N/A
+2	COc1ccc(cc1)N(Cc2cccc(c2)Cl)C(=O)Cn3c4ccccc4nn3	CHO-MSK-00c5269a-2	BENZO_354_1	-1.91	0.14	N/A
+3	CN(C)c1ccc(cc1)N(Cc2cccc(c2)Cl)C(=O)Cn3c4ccccc4nn3	ALP-POS-6d04362c-2	BENZO_338_1	-1.65	0.14	N/A
+4	c1ccc2c(c1)nnn2CC(=O)N(Cc3cccc(c3)Cl)c4ccc(cc4)N5CCOCC5	CHO-MSK-00c5269a-4	BENZO_362_1	-1.59	0.16	N/A
+5	c1ccc2c(c1)nnn2NC(=O)N(Cc3ccsc3)c4ccc(cc4)N5CCOCC5	ALP-POS-6d04362c-4 *	BENZO_24_1	-1.51	0.12	benzotriazole should be bound to -NH-
+6	c1ccc2c(c1)nnn2CC(=O)N(Cc3ccsc3)c4ccc(cc4)N5CCOCC5	ALP-POS-6d04362c-4	BENZO_360_1	-1.49	0.12	N/A
+7	c1ccc2c(c1)nnn2CC(=O)N(Cc3ccsc3)c4ccc(cc4)N5CCCCC5	ALP-POS-6d04362c-3	BENZO_344_1	-1.27	0.12	N/A
+8	CN(C)c1ccc(cc1)N(Cc2ccsc2)C(=O)Cn3c4ccccc4nn3	ALP-POS-d2866bdf-1	BENZO_336_1	-1.11	0.12	N/A

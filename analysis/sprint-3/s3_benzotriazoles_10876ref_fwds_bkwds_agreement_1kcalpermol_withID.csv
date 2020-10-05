@@ -1,0 +1,6 @@
+	SMILES	ID	Name	DDG (kcal / mol)	dDDG (kcal / mol)
+0	Cc1ccc(cc1)N(Cc2cccc(c2)Cl)C(=O)Cn3c4ccccc4nn3	CHO-MSK-00c5269a-1	BENZO_350_1	-1.66	0.11
+1	COc1ccc(cc1)N(Cc2cccc(c2)Cl)C(=O)Cn3c4ccccc4nn3	CHO-MSK-00c5269a-2	BENZO_354_1	-1.56	0.11
+2	CN(C)c1ccc(cc1)N(Cc2cccc(c2)Cl)C(=O)Cn3c4ccccc4nn3	ALP-POS-6d04362c-2	BENZO_338_1	-1.41	0.09
+3	c1ccc2c(c1)nnn2CC(=O)N(Cc3cccc(c3)Cl)c4ccc(cc4)N5CCOCC5	CHO-MSK-00c5269a-4	BENZO_362_1	-1.26	0.13
+4	c1ccc2c(c1)nnn2CC(=O)N(Cc3cccc(c3)Cl)c4ccc(cc4)N5CCCCC5	CHO-MSK-00c5269a-5	BENZO_346_1	-1.06	0.13
